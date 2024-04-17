@@ -1,0 +1,133 @@
+from google.colab import files
+uploaded = files.upload()
+
+### imports and load data file
+
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+
+### insert file name below!
+infile = 'Text_name.txt'
+
+with open(infile,'r') as f:
+    text = f.read()
+
+doc = nlp(text)
+
+uploaded["Text_name.txt"]
+
+### sentence splitting
+### currently not counting numbers, punctuation, etc. -- desired  behavior?
+assert doc.has_annotation("SENT_START")
+num_sents = 0
+
+words = [x.text for x in doc if x.is_alpha]
+num_words = len(words)
+num_sents = len([s for s in doc.sents])
+
+## num_sents
+print("Number of sentences:", num_sents)
+print("Number of words in doc:", num_words)
+print("Average sentence length:", num_words/num_sents)
+
+
+### for debugging
+#for s in doc.sents:
+#    num_sents += 1
+#    print(num_sents, s.text)
+
+## lemmatization & vocabulary richness
+## tokens are lemmatized (and thus also lower cased), ignoring punctuation, numbers, etc.
+## vocab is number of unique lemmas
+## num_words is non-unique, number of lemmas in doc, applying some filters as above
+
+
+lemmas = [x.lemma_ for x in doc if x.is_alpha]
+#print(words)
+num_lemmas = len(words)
+print(num_words)
+
+vocab = set(words)
+print(vocab)
+print(len(vocab))
+
+richness = len(vocab)/num_words
+print(richness)
+
+### Syntax parsing / POS tagging
+pos = [x.pos_ for x in doc if x.is_alpha]
+
+### Allows you to count instances of different pos tags
+from collections import Counter
+pos_counter = Counter(pos)
+print(pos_counter)
+
+### Dependency parsing 
+
+nlp = spacy.load('en_core_web_sm')
+
+infile = 'Text_name.txt'
+
+with open(infile,'r') as f:
+    text = f.read()
+
+doc = nlp(text)
+
+def arrow_length_in_characters(token):
+  child_index = token.idx
+  parent_index = token.head.idx
+
+  distance = abs(child_index - parent_index)
+
+  if distance == 0:
+    return distance
+
+  if child_index < parent_index:
+    distance = abs(distance - len(token))
+
+  else:
+    distance = abs(distance - len(token.head))
+
+  return distance
+
+def arrow_length_in_words(token, doc):
+  child_index = -1
+  parent_index = -1
+  parent = token.head
+  for idx, tok in enumerate(doc):
+    if tok == token:
+      child_index = idx
+    if tok == token.head:
+      parent_index = idx
+
+  return abs(child_index - parent_index)
+
+# Dependency arrow distances
+
+length_in_chars = []
+length_in_words = []
+
+for tok in doc:
+  word = tok.text
+  parent = tok.head.text
+  arrow_dist = arrow_length_in_words(tok, doc)
+  arrow_dist_chars = arrow_length_in_characters(tok)
+  length_in_words.append(arrow_dist)
+  length_in_chars.append(arrow_dist_chars)
+  print(f"{word}-->{parent}: {arrow_dist} (number of characters: {arrow_dist_chars})")
+
+# average and maximum
+average_words = sum(length_in_words) / len(length_in_words)
+print(f"Arrow length in words: {max(length_in_words)} maximum, {average_words} average")
+
+average_chars = sum(length_in_chars) / len(length_in_chars)
+
+print(f"Arrow length in characters: {max(length_in_chars)} maximum, {average_chars} average")
+
+# data visualization
+from spacy import displacy
+
+nlp = spacy.load("en_core_web_sm")
+doc = nlp("SENTENCE")
+displacy.serve(doc, style="dep")
