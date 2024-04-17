@@ -1,0 +1,300 @@
+Text_name,file_name,text_type,grade_level,standards,total_words,UWD,UWD_div_total,number_sentences,avg_SL,DESC_div_total,SCONJ_div_total,ADP_div_total,max_arrow_length,avg_arrow_length
+"“On the Sidewalk Bleeding,” by Evan Hunter",On_sidewalk.txt,prose,10,ALB,2022,540,0.2671,287,7.0452,0.1078140455,0.01681503462,0.08160237389,18,2.1422
+"“God Mode,” by Daniel H. Wilson",God_mode.txt,prose,9,ALB,3095,994,0.3211,380,8.1447,0.1282714055,0.01873990307,0.1066235864,36,2.1879
+“Grass” by Carl Sandburg,Grass.txt,poetry,11,CCS,67,39,0.5821,8,8.375,0.05970149254,0.01492537313,0.07462686567,14,2.1888
+"“Charles,” by Shirley Jackson",Charles.txt,prose,9,ALB,957,333,0.3479,140,6.8357,0.08986415883,0.01044932079,0.08881922675,16,2.1899
+“So What Are You Anyway?” by Lawrence Hill,So_what.txt,prose,9,ALB,1403,492,0.3506,197,7.1218,0.08339272986,0.02066999287,0.06842480399,26,2.3342
+"“Civilization,” by Vylar Kaftan",Civilization.txt,prose,11,ALB,2632,904,0.3434,300,8.7733,0.1212006079,0.02621580547,0.09080547112,34,2.3966
+"“On the Bridge,” by Todd Strasser",On_bridge.txt,prose,11,ALB,2383,712,0.2987,239,9.9707,0.1099454469,0.02098195552,0.1112043642,31,2.4139
+"“Long Walk to Forever,” by Kurt Vonnegut",Long_walk.txt,prose,9,ALB,1834,542,0.2955,242,7.5785,0.1194111232,0.01962922574,0.07797164667,37,2.4148
+“Conversation with a Stone” by Wisława Szymborska,Convo_stone.txt,poetry,12,CCS,446,189,0.4237,47,9.4893,0.134529148,0.008968609865,0.08744394619,25,2.4279
+"“A Clean, Well-Lighted Place” by Ernest Hemingway",Clean_place.txt,prose,11,CCS,1431,432,0.3018,153,9.3529,0.1167016073,0.01956673655,0.1027253669,49,2.4529
+"“My Papa’s Waltz,” by Theodore Roethke",Papas_waltz.txt,poetry,11,ALB,85,72,0.8471,5,17,0.08235294118,0.01176470588,0.1411764706,19,2.4545
+“Dream Variations” by Langston Hughes,Dream_vari.txt,poetry,9,CCS,77,51,0.6623,10,7.7,0.1688311688,0.03896103896,0.1168831169,24,2.4864
+“The Gift of the Magi” by O. Henry,Gift_magi.txt,prose,9,CCS,1860,575,0.3091,180,10.3333,0.1322580645,0.02043010753,0.09462365591,28,2.4886
+“Hills Like White Elephants” by Ernest Hemingway,Hills_like.txt,prose,11,CCS,1474,366,0.2483,178,8.2808,0.09837177748,0.01628222524,0.09769335142,31,2.4965
+“Love III” by George Herbert,Love_3.txt,poetry,12,CCS,126,93,0.7381,11,11.4545,0.09523809524,0.01587301587,0.04761904762,24,2.5085
+“The Cask of Amontillado” by Edgar Allan Poe,Cask_amon.txt,prose,9,CCS,1461,486,0.3326,152,9.6118,0.1307323751,0.02806297057,0.09924709103,33,2.5089
+"“The Cask of Amontillado,” by Edgar Allan Poe",Cask_amon.txt,prose,11,ALB,1461,486,0.3326,152,9.6118,0.1307323751,0.02806297057,0.09924709103,33,2.5089
+“The House on the Hill” by E.A. Robinson,House_hill.txt,poetry,11,CCS,104,56,0.5384,7,14.8571,0.2019230769,0.009615384615,0.05769230769,19,2.5217
+"“Pact,” by Mark Oshiro",Pact.txt,prose,11,ALB,3637,978,0.2689,394,9.2309,0.1171295023,0.02254605444,0.110805609,40,2.5362
+“The Scarlet Ibis” by James Hurst,Scarlet_ibis.txt,prose,9,CCS,1404,507,0.3611,123,11.4146,0.103988604,0.02564102564,0.1075498575,28,2.5546
+"“The Scarlet Ibis,” by James Hurst",Scarlet_ibis.txt,prose,12,ALB,1404,507,0.3611,123,11.4146,0.103988604,0.02564102564,0.1075498575,28,2.5546
+"“The Veldt,” by Ray Bradbury",Veldt.txt,prose,10,ALB,4745,1125,0.2371,512,9.2675,0.1272918862,0.01896733404,0.1022128556,45,2.5604
+“The Negro Speaks of Rivers” by Langston Hughes,Negro_speaks.txt,poetry,11,CCS,103,63,0.6116,8,12.875,0.1165048544,0.02912621359,0.1262135922,23,2.5625
+“Morning Glory” by Naomi Shihab Nye,Morning_glory.txt,poetry,9,CCS,264,162,0.6136,22,12,0.1212121212,0.04166666667,0.1174242424,44,2.5722
+"“Glass Roses,” by Alden Nowlan",Glass_roses.txt,prose,12,ALB,2994,1040,0.3473,270,11.0888,0.1028724115,0.02371409486,0.1092184369,33,2.5861
+"“Button, Button,” by Richard Matheson",Button.txt,prose,9,ALB,2121,679,0.3201,271,7.8265,0.08345120226,0.02545968883,0.09005186233,53,2.5912
+"“Substance, Shadow, and Spirit” by T’ao Ch’ien",Substance.txt,poetry,10,CCS,456,267,0.5855,33,13.8181,0.1096491228,0.05263157895,0.08114035088,39,2.5939
+"“A Small, Good Thing” by Raymond Carver",Small_good.txt,prose,11,CCS,9670,1482,0.1532,970,9.9691,0.1023784902,0.01892450879,0.1126163392,52,2.6001
+"“Fifth Grade Autobiography,” by Rita Dove",Fifth_grade.txt,poetry,9,ALB,136,99,0.7279,9,15.1111,0.05882352941,0.02205882353,0.1544117647,25,2.6057
+“The Man Who Was Almost a Man” by Richard Wright,Man_almost.txt,prose,11,CCS,4445,1122,0.2524,481,9.2411,0.096287964,0.0188976378,0.07986501687,40,2.6084
+"“Paper Menagerie,” by Ken Liu",Paper_menag.txt,prose,11,ALB,4943,1260,0.2549,435,11.3632,0.1037831277,0.02508598017,0.1183491807,50,2.6164
+"“The Child Who Walks Backwards,” by Lorna Crozier",Child_backwards.txt,poetry,10,ALB,144,101,0.7013,7,20.5714,0.04166666667,0.02083333333,0.1527777778,28,2.619
+"“To Build a Fire,” by Jack London",Build_fire.txt,prose,9,ALB,6512,1212,0.1861,507,12.8441,0.1125614251,0.02641277641,0.1116400491,40,2.6329
+“Conscientious Objector” by Edna St Vincent Millay,Conscientious.txt,poetry,11,CCS,201,110,0.5472,11,18.2727,0.02985074627,0.02487562189,0.1194029851,42,2.6363
+"“The Sound of Thunder,” by Ray Bradbury",Sound_thunder.txt,prose,12,ALB,4342,1415,0.3258,494,8.7894,0.1190695532,0.01473975127,0.1038691847,45,2.6401
+"“Travelling Through the Dark,” by William E. Stafford",Travelling_through.txt,poetry,12,ALB,158,112,0.7088,9,17.5555,0.1518987342,0,0.1139240506,22,2.6435
+Village people by Bessie Head,Village_people.txt,prose,10,CCS,1877,676,0.3601,157,11.9554,0.1417155035,0.02983484283,0.09749600426,42,2.6514
+"“The Guest,” by Albert Camus",Guest.txt,prose,12,ALB,5120,1293,0.2525,423,12.104,0.1158203125,0.016015625,0.1291015625,48,2.6545
+"“He’ll Come Knocking at Your Door,” by Robert R. McCammon",He_come_knock.txt,prose,12,ALB,6135,1601,0.2609,589,10.4159,0.1005704971,0.01939690302,0.1149144254,54,2.6595
+"“Nightcrawlers,” by Robert R. McCammon",Nightcrawler.txt,prose,11,ALB,8451,1971,0.2332,756,11.1785,0.1059046267,0.01680274524,0.1151343036,86,2.6696
+"“Dancing Bear,” by Guy Vanderhaeghe",Dancing_bear.txt,prose,12,ALB,5563,1762,0.3167,547,10.17,0.1234945173,0.0165378393,0.1042602912,57,2.6841
+"“The Landlady,” by Margaret Atwood",Landlady_atwood.txt,poetry,12,ALB,155,105,0.6774,10,15.5,0.09677419355,0.01290322581,0.1677419355,24,2.6872
+"“The Wall,” by Jean-Paul Sartre",Wall.txt,prose,12,ALB,7326,1456,0.1987,617,11.8735,0.1051051051,0.01951951952,0.1003276003,41,2.6945
+"“Test,” by Theodore L. Thomas",Test.txt,prose,9,ALB,1532,562,0.3668,110,13.9272,0.1318537859,0.009791122715,0.1174934726,32,2.6985
+“The Secret Life of Walter Mitty” by James Thurber,Secret_mitty.txt,prose,9,CCS,2057,775,0.3767,212,9.7028,0.09625668449,0.01166747691,0.1254253768,32,2.7139
+"“Just Lather, That’s All,” by Hernando Tellez",Just_lather.txt,prose,10,ALB,1904,660,0.3466,174,10.9425,0.1165966387,0.02205882353,0.106092437,41,2.7176
+"“Harrison Bergeron,” by Kurt Vonnegut",Harrison_b.txt,prose,9,ALB,2193,769,0.3506,182,12.0494,0.1285909713,0.01915184679,0.10624715,37,2.7196
+"“Changes,” by Tupac Shakur",Changes.txt,poetry,11,ALB,729,278,0.3813,42,17.3571,0.122085048,0.01783264746,0.0548696845,55,2.7236
+"“The Rocking-Horse Winner,” by D.H. Lawrence",Rocking_horse.txt,prose,12,ALB,5442,1134,0.2083,507,10.7337,0.131569276,0.02774715178,0.08912164645,62,2.7251
+“The Most Dangerous Game” by Richard Connell,Most_dangerous_game,prose,9,CCS,6538,1784,0.2728,538,12.1524,0.11945549098,0.02248394004,0.10293667788,38,2.728
+“Suicide in the Trenches” by Siegfried Sassoon,Suicide_trenches.txt,poetry,12,CCS,80,69,0.8625,4,20,0.1125,0.025,0.1375,29,2.7378
+"“Pretty,” by Katie Makkai",Pretty.txt,poetry,11,ALB,511,284,0.5557,46,11.1086,0.1213307241,0.02935420744,0.0939334638,37,2.7452
+“The Darkling Thrush” by Thomas Hardy,Darkling_thrush.txt,poetry,9,CCS,165,136,0.8242,8,20.625,0.1636363636,0.0303030303,0.08484848485,24,2.75
+"“The Red Convertible,” by Louise Erdrich",Red_convertible.txt,prose,10,ALB,4209,1064,0.2527,343,12.2711,0.1388,0.0299,0.1060,41,2.7588
+"“Thank You Ma’am,” by Langston Hughes",Thank_you.txt,prose,9,ALB,1339,430,0.3211,110,12.1727,0.09783420463,0.02091112771,0.08364451083,41,2.7718
+"“Chapter 1” from And the Mountains Echoed, by Khaled Hosseini",Mountains_echo.txt,prose,10,ALB,4924,1305,0.265,377,13.061,0.1043866775,0.02985377742,0.1035743298,74,2.7733
+"“The Treasure of Lemon Brown,” by Walter Dean Myers",Treasure_lemon.txt,prose,9,ALB,3369,885,0.2626,270,12.4777,0.1023809524,0.02523003859,0.1018106263,40,2.7748
+“Upon the Burning of Our House” by Anne Bradstreet,Burning_house.txt,poetry,11,CCS,355,224,0.6309,21,16.9047,0.1521126761,0.02535211268,0.08169014085,22,2.7782
+"“Everyday Use,” by Alice Walker",Everyday_use.txt,prose,9,ALB,3604,1069,0.2966,281,12.8256,0.1071032186,0.02413984462,0.1187569367,45,2.7831
+“Everyday Use” by Alice Walker,Everyday_use.txt,prose,9,CCS,3604,1069,0.2966,281,12.8256,0.1071032186,0.02413984462,0.1187569367,45,2.7831
+"“The Artist at Work,” by Albert Camus",Artist_work.txt,prose,12,ALB,1718,593,0.3451,154,11.1558,0.131548312,0.02619324796,0.1169965076,43,2.7836
+"“Story of an Hour,” by Kate Chopin",Story_hour.txt,prose,10,ALB,1012,471,0.4654,67,15.1044,0.1206,0.0188,0.1117,44,2.7952
+"“Family Cooking,” by AnaMaria Curtis",Family_cook.txt,prose,9,ALB,4142,1150,0.2776,350,11.8342,0.1279575085,0.0280057943,0.09729599227,49,2.7999
+“To My Dear and Loving Husband” by Anne Bradstreet,Dear_husband.txt,poetry,11,CCS,104,73,0.7019,7,14.8571,0.1634615385,0.08653846154,0.06730769231,20,2.8
+"“Underdog,” by Alicia Keys ",Underdog.txt,poetry,11,ALB,402,138,0.3432,15,26.8,0.07960199005,0.01990049751,0.1044776119,45,2.8023
+"“The Medicine Bag,” by Virginia Driving Hawk Sneve",Medicine_bag.txt,prose,10,ALB,3534,968,0.2739,244,14.4836,0.1083757782,0.03791737408,0.0973401245,34,2.8092
+"“The Skating Party,” by Merna Summers",Skating_party.txt,prose,9,ALB,6536,1276,0.1952,465,14.0559,0.09179926561,0.03518971848,0.1006731946,51,2.8121
+"“Teenage Wasteland,” by Anne Tyler",Teen_waste.txt,prose,10,ALB,3852,1178,0.3058,334,11.5329,0.1181204569,0.02414330218,0.08930425753,50,2.819
+“Phantom Limbs” by Anne Michaels,Phantom_limbs.txt,poetry,9,CCS,216,156,0.7222,14,15.4285,0.1851851852,0.01388888889,0.125,32,2.8241
+“I Ask My Mother to Sing” by Li-Young Lee,I_ask.txt,poetry,9,CCS,99,78,0.7878,7,14.1428,0.08080808081,0.0303030303,0.09090909091,36,2.8294
+“The Sea of Lost Time” by Gabriel García Márquez,Sea_lost.txt,prose,10,CCS,6123,1347,0.2199,452,13.5464,0.1172627797,0.02351788339,0.120692471,46,2.8382
+"""Rashomon"" by Ryunosuke Akutagawa",Rashomon.txt,prose,10,CCS,2191,791,0.361,131,16.7251,0.1241442264,0.02601551803,0.1337288909,38,2.8436
+“Did I Miss Anything?” by Tom Wayman,Did_I_miss.txt,poetry,9,ALB,213,137,0.6431,12,17.75,0.0985915493,0.03286384977,0.1079812207,41,2.8521
+"“Hero of War,” by Rise Against",Hero_war.txt,poetry,10,ALB,334,152,0.4551,15,22.2666,0.09281437126,0.03293413174,0.06886227545,77,2.8601
+"“Totem,” by Thomas King",Totem.txt,prose,10,ALB,1298,464,0.3574,99,13.1111,0.09013867488,0.01771956857,0.1063174114,37,2.89
+"“Money,” by Poetri",Money.txt,poetry,9,ALB,487,236,0.4845,28,17.3928,0.1519507187,0.03285420945,0.0636550308,60,2.9056
+“The Death of the Hired Man” by Robert Frost,Death_hired.txt,poetry,11,CCS,1418,545,0.3843,129,10.9922,0.1086036671,0.02891396333,0.09802538787,47,2.9121
+“Domination of Black” by Wallace Stevens,Domination_black.txt,poetry,11,CCS,189,70,0.3703,11,17.1818,0.03174603175,0.02116402116,0.1904761905,58,2.9196
+“The Rime of the Ancient Mariner” by Samuel Taylor Coleridge,Rime_mariner.txt,poetry,10,ALB,3887,1200,0.3087,260,14.95,0.1301775148,0.02006688963,0.08978646771,70,2.9258
+"""The Rime of the Ancient Mariner"" by Samuel Taylor Coleridge",Rime_mariner.txt,poetry,12,CCS,3887,1200,0.3087,260,14.95,0.1301775148,0.02006688963,0.08978646771,70,2.9258
+"“There Will Come Soft Rains,” by Ray Bradbury",Soft_rains.txt,prose,10,ALB,2074,920,0.4435,163,12.7239,0.1195756991,0.01639344262,0.1224686596,67,2.9273
+In her absence I create her image by Mahmoud Darwish,Her_absence.txt,poetry,10,CCS,242,131,0.5413,18,13.4444,0.0867768595,0.03305785124,0.132231405,28,2.9294
+“The Secret Miracle” by Jorge Luis Borges,Secret_miracle.txt,prose,10,CCS,2473,1007,0.4071,155,15.9548,0.1116053376,0.01819652244,0.1277800243,48,2.9366
+“Saturday’s Child” by Countée Cullen,Saturdays_child.txt,poetry,9,CCS,123,88,0.7154,6,20.5,0.07317073171,0.0162601626,0.1219512195,29,2.9393
+"“Lamb to the Slaughter,” by Roald Dahl",Lamb_slaughter.txt,prose,9,ALB,3488,898,0.2574,271,12.8708,0.1370412844,0.02436926606,0.1080848624,87,2.942
+"“The Ones Who Stay and Fight,” by N.K. Jemisin",Ones_stay.txt,prose,11,ALB,3858,1340,0.3473,283,13.6325,0.1518921721,0.03525142561,0.09020217729,44,2.9478
+"“Workshop,” by Billy Collins",Workshop.txt,poetry,10,ALB,543,279,0.5138,33,16.4545,0.138121547,0.02946593002,0.09944751381,46,2.9495
+“Spring and Fall” by Gerard Manley Hopkins,Spring_fall.txt,poetry,12,CCS,94,74,0.7872,7,13.4285,0.09574468085,0.03191489362,0.1170212766,32,2.9687
+“The Answer is No” by Naguib Mahfouz,Answer_no.txt,prose,10,CCS,1194,480,0.402,83,14.3855,0.1147403685,0.0242881072,0.108040201,45,2.9694
+"“The Merchant and the Alchemist’s Gate,” by Ted Chiang",Merchant_alchemist.txt,prose,12,ALB,10606,2009,0.1894,669,15.8535,0.09956628324,0.03526305865,0.09673769564,79,2.9741
+"“A Hundred Bucks of Happy,” by Susan Beth Pfeffer",Hundred_bucks.txt,prose,10,ALB,3024,849,0.2807,208,14.5384,0.1011904762,0.02843915344,0.1008597884,44,2.9811
+"“The Lottery,” by Shirley Jackson",Lottery.txt,prose,11,ALB,3274,850,0.2596,233,14.0515,0.120647526,0.0180207697,0.1096518021,60,2.9919
+"“The Necklace,” by Guy de Maupassant",Necklace.txt,prose,11,ALB,2787,957,0.3433,211,13.2085,0.1173304629,0.02224614281,0.1123071403,64,2.9929
+“Tableau” by Countee Cullen,Tableau.txt,poetry,11,CCS,71,57,0.8028,3,23.6666,0.1408450704,0.01408450704,0.0985915493,27,3
+"“On the Rainy River,” by Tim O’Brien",Rainy_river.txt,prose,12,ALB,6712,1906,0.2839,463,14.4967,0.1328963051,0.01996424315,0.112932062,193,3.0048
+“The Wild Honeysuckle” by Philip Freneau,Wild_Honeysuckle.txt,poetry,11,CCS,148,119,0.8041,7,21.1428,0.1486486486,0.01351351351,0.08108108108,28,3.0049
+“Roman Fever” by Edith Wharton,Roman_fever.txt,prose,11,CCS,4822,1308,0.2712,384,12.5572,0.1515968478,0.0267523849,0.110120282,80,3.0051
+Sonnet 40 by William Shakespeare,Sonnet_40.txt,poetry,12,CCS,120,83,0.6916,7,17.1428,0.1333333333,0.03333333333,0.075,25,3.0063
+“The Garden of Forking Paths” by Jorge Luis Borges,Garden_forking.txt,prose,10,CCS,4285,1385,0.3232,270,15.8703,0.1246207701,0.02263710618,0.1325554259,75,3.0246
+“Campo di Fiori” by Czeslaw Milosz,Campo_fiori.txt,poetry,9,CCS,323,202,0.6253,16,20.1875,0.0866873065,0.03095975232,0.1547987616,43,3.0306
+"“The Painted Door,” by Sinclair Ross",Painted_door.txt,prose,12,ALB,8165,1808,0.2214,562,14.5284,0.157379057,0.02829148806,0.1050826699,54,3.0336
+"“Sonnet 130,” by Willliam Shakespeare ",Sonnet_130.txt,poetry,11,ALB,123,87,0.7073,5,24.6,0.1544715447,0.0325203252,0.1056910569,24,3.0445
+Sonnet 130 by William Shakespeare,Sonnet_130.txt,poetry,12,CCS,123,87,0.7073,5,24.6,0.1544715447,0.0325203252,0.1056910569,24,3.0445
+“To the Virgins to Make Much of Time” by Robert Herrick,Virgins_time.txt,poetry,12,CCS,99,76,0.7676,5,19.8,0.1717171717,0.0303030303,0.0303030303,31,3.0579
+"“Desiree’s Baby,” by Kate Chopin",Desiree_baby.txt,prose,11,ALB,2155,774,0.3591,137,15.7299,0.1229698376,0.03016241299,0.105800464,46,3.059
+"“The Landlady,” by Roald Dahl",Landlady_dahl.txt,prose,10,ALB,3520,966,0.2744,272,12.9411,0.1556818182,0.02017045455,0.1105113636,67,3.0614
+“The Flea” by John Donne,Flea.txt,poetry,12,CCS,207,127,0.6135,8,25.875,0.1111111111,0.06280193237,0.08212560386,32,3.0662
+"“Sonny’s Blues,” by James Baldwin",Sonnys_blues.txt,prose,12,ALB,13698,2541,0.1855,999,13.7117,0.12636881,0.02963936,0.09556140,63,3.0664
+"“The Yellow Wallpaper,” by Charlotte Perkins Gilman",Yellow_wallpaper.txt,prose,12,ALB,6138,1264,0.2059,389,15.7789,0.1650374715,0.03079178886,0.09156076898,55,3.0709
+“In Time of Silver Rain” by Langston Hughes,Silver_rain.txt,poetry,9,CCS,84,57,0.6785,3,28,0.1071428571,0.0119047619,0.1904761905,36,3.0714
+“The Tell-Tale Heart” by Edgar Allan Poe,Tell_tale.txt,prose,9,CCS,2154,680,0.3156,164,13.1341,0.1550603528,0.03853296193,0.09006499536,47,3.0774
+"“The Sniper,” by Liam O’Flaherty",Sniper.txt,prose,9,ALB,11410,2385,0.209,719,15.8692,0.1170902717,0.02927256792,0.1190184049,94,3.0836
+Sonnet 116 by William Shakespeare,Sonnet_116.txt,poetry,12,CCS,109,80,0.7339,5,21.8,0.08256880734,0.04587155963,0.09174311927,20,3.0915
+"“The Unknown Citizen,” by W.H. Auden",Unknown_citizen.txt,poetry,11,ALB,289,173,0.5986,14,20.6428,0.0830449827,0.04498269896,0.1003460208,32,3.0932
+"“A Brief Moment in the Life of Angus Bethune,” by Chris Crutcher",Angus_bethune.txt,prose,10,ALB,5555,1615,0.2907,394,14.0989,0.1206120612,0.02214221422,0.1152115212,74,3.0936
+“To His Excellency General Washington” by Phillis Wheatley,Gen_washington.txt,poetry,11,CCS,298,219,0.7348,21,14.1904,0.1208053691,0.02684563758,0.1241610738,38,3.0987
+“An Hymn to the Evening” by Phillis Wheatley,Hymn_evening.txt,poetry,11,CCS,137,105,0.7664,6,22.8333,0.1459854015,0.01459854015,0.1094890511,22,3.1038
+“On Being Brought from Africa to America” by Phillis Wheatley,On_being_brought.txt,poetry,11,CCS,57,53,0.9298,3,19,0.1403508772,0.05263157895,0.05263157895,28,3.1084
+"“To My Enemy,” by Lucy Maude Montgomery",My_enemy.txt,poetry,9,ALB,130,98,0.7538,6,21.6666,0.1307692308,0.01538461538,0.1153846154,28,3.1091
+How Much Land Does a Man Need?” by Leo Tolstoy,How_much_land.txt,prose,9,CCS,6163,1250,0.2028,370,16.6567,0.1113094272,0.02839526205,0.09800421872,52,3.1098
+"“What the Sky Sees,” by Jon McGregor",What_sky.txt,prose,11,ALB,9511,1745,0.1834,458,20.7663,0.1030385869,0.0290190306,0.113447587,59,3.1189
+"“The White Knight,” by Eric Nicol",White_knight.txt,prose,10,ALB,713,323,0.453,34,20.9705,0.1458625526,0.02384291725,0.1023842917,39,3.1207
+"“Marigolds,” by Eugenia Colier",Marigolds.txt,prose,12,ALB,3882,1262,0.3251,228,17.0263,0.1458011334,0.03013910355,0.1115404431,59,3.1236
+“A Good Man is Hard to Find” by Flannery O’Connor,Good_man.txt,prose,11,CCS,6466,1377,0.2129,449,14.4008,0.09665944943,0.02536343953,0.1060934117,126,3.1268
+"“If We Must Die,” by Claude McKay",If_must.txt,poetry,11,ALB,116,86,0.7413,7,16.5714,0.1465517241,0.06896551724,0.06896551724,34,3.1275
+"“The House that Made Sixteen Loops of Time,” by Tamsyn Muir",House_sixteen.txt,prose,9,ALB,4776,1398,0.2927,304,15.7105,0.1245812395,0.02994137353,0.094639866,64,3.1301
+"“Introduction to Poetry,” by Billy Collins",Intro_poetry.txt,poetry,9,ALB,109,70,0.6422,5,21.8,0.03669724771,0,0.1559633028,33,3.1439
+“Archaic Torso of Apollo” by Rainer Maria Rilke,Torso_apollo.txt,poetry,12,CCS,116,86,0.7413,5,23.2,0.1293103448,0.008620689655,0.1465517241,34,3.1458
+"“Shovelling Snow With Buddha,” by Billy Collins",Shoveling_snow.txt,poetry,10,ALB,367,220,0.5994,17,21.5882,0.1416893733,0.02179836512,0.1253405995,58,3.1525
+“The Nymph’s Reply to the Shepherd” by Sir Walter Raleigh,Nymphs_reply.txt,poetry,12,CCS,166,115,0.6927,7,23.7142,0.0783132530,0.01204819277,0.07831325301,26,3.1541
+“Lord Randall” by Anonymous,Lord_randall.txt,poetry,9,CCS,198,57,0.2878,2,16.5,0.1464646465,0.04545454545,0.03535353535,27,3.1543
+“Petrified Man” by Eudora Welty,Petrified.txt,prose,11,CCS,5359,1218,0.2272,447,11.9888,0.1149468184,0.0220190334,0.0873297257,111,3.1549
+"“The Wreck of the Hesperus,” by Henry Wadsworth Longfellow",Wreck_hesperus.txt,poetry,9,ALB,589,304,0.5161,33,17.8484,0.08319185059,0.01188455008,0.1120543294,36,3.159
+“No One Writes to the Colonel” by Gabriel García Márquez,No_writes.txt,prose,10,CCS,18120,3914,0.2157,1697,10.9345,0.08189845,0.02246137,0.12119205,95,3.1596
+"“Boys and Girls,” by Alice Munro",Boys_girls.txt,prose,12,ALB,6321,1549,0.2451,354,17.8559,0.1137478247,0.02262300269,0.1173864895,75,3.1603
+“Sleepy” by Anton Chekhov,Sleepy.txt,prose,10,CCS,2304,707,0.3068,138,16.6956,0.09765625,0.02300347222,0.1015625,65,3.1626
+“The Snows of Kilimanjaro” by Ernest Hemingway,Snows_kil.txt,prose,11,CCS,9190,1815,0.1974,649,14.1602,0.124265506,0.03101196953,0.09325353645,90,3.1732
+“The Swimmer” by John Cheever,Swimmer.txt,prose,11,CCS,4925,1388,0.2818,265,18.3085,0.09421319797,0.0261928934,0.1108629442,57,3.1819
+“The Passionate Shepherd to His Love” by Christopher Marlowe,Passionate_shepherd.txt,poetry,12,CCS,157,105,0.6687,6,26.1666,0.07643312102,0.02547770701,0.1082802548,48,3.1826
+"“Still I Rise,” by Maya Angelou",I_rise.txt,poetry,11,ALB,238,130,0.5462,12,19.8333,0.0714,0.0210,0.1429,34,3.1871
+"“Courtesy of the Red, White and Blue,” by Toby Keith",Courtesy_red.txt,poetry,10,ALB,320,161,0.5031,10,32,0.121875,0.034375,0.115625,67,3.1897
+“The Gift” by Li-Young Lee,Gift.txt,poetry,9,CCS,210,134,0.6381,13,16.1538,0.05238095238,0.03333333333,0.07619047619,47,3.1985
+"“The Man,” by Taylor Swift",Man_ts.txt,poetry,11,ALB,418,118,0.2822,16,26.125,0.1531100478,0.07177033493,0.06698564593,72,3.2068
+The Conference of the Birds by Farīd al Dīn Attār,Conference_birds.txt,poetry,10,CCS,4648,1509,0.3246,216,21.5185,0.1084337349,0.02538726334,0.1006884682,74,3.2103
+“The Star-Spangled Banner” by Francis Scott Key,Star_spangled.txt,poetry,11,CCS,303,167,0.5511,12,25.25,0.1254125413,0.02310231023,0.09900990099,40,3.2163
+“Rothschild’s Fiddle” by Anton Chekhov,Rothschild.txt,prose,10,CCS,4180,1171,0.2801,237,17.6371,0.1232057416,0.03253588517,0.1074162679,57,3.2294
+Sonnet 43 by Elizabeth Barrett Browning,Sonnet_43.txt,poetry,12,CCS,128,79,0.6171,9,14.2222,0.0703125,0.0390625,0.140625,31,3.2317
+"“The Highwayman,” by Alfred Noyes",Highwayman.txt,poetry,9,ALB,1029,376,0.3654,61,16.8688,0.08649173955,0.01652089407,0.1428571429,47,3.2317
+“Upon a Spider Catching a Fly” by Edward Taylor,Spider_catch.txt,poetry,11,CCS,194,149,0.768,11,17.6363,0.118556701,0.03092783505,0.09793814433,26,3.2419
+"“Where Are You Going, Where Have You Been?” by Joyce Carol Oates",Where_going.txt,prose,11,CCS,6902,1400,0.2028,453,15.2362,0.1261953057,0.03042596349,0.1038829325,95,3.2454
+“The Indian Burying Ground” by Philip Freneau,Indian_burial.txt,poetry,11,CCS,250,173,0.692,13,19.2307,0.136,0.02,0.076,29,3.2485
+"“Casey at Bat,” by Ernest Lawrence Thayer",Casey_bat.txt,poetry,9,ALB,579,302,0.5215,24,24.125,0.1070811744,0.02936096718,0.1001727116,43,3.249
+"“The Ones Who Walk Away from Omelas,” by Ursula K. LeGuin",Omelas.txt,prose,11,ALB,2826,1028,0.3637,164,17.2317,0.1450813871,0.02300070771,0.11712668082,61,3.2491
+“The Black Cat” by Edgar Allan Poe,Black_cat.txt,prose,9,CCS,3934,1305,0.3317,190,20.7052,0.1370106762,0.02643619725,0.1352313167,60,3.251
+"“London, 1802” by William Wordsworth",London_1802.txt,poetry,12,CCS,108,93,0.8611,6,18,0.1759259259,0,0.1203703704,48,3.2751
+"“A Consecration,” by Tom Dawe",Consecration.txt,poetry,10,ALB,117,85,0.7264,5,23.4,0.1025641026,0.04273504274,0.08547008547,37,3.2847
+“The Nose” by Nikolai Gogol,Nose.txt,prose,10,CCS,9097,2000,0.2198,504,18.0496,0.1219083214,0.02902055623,0.1139936243,64,3.2854
+“Harlem” by Langston Hughes,Harlem.txt,poetry,11,CCS,51,37,0.7254,5,10.2,0.137254902,0,0.1764705882,21,3.2857
+"“The Lady of Shalott” by Alfred, Lord Tennyson",Lady_shalott.txt,poetry,9,CCS,992,496,0.5,48,20.6666,0.125,0.01713709677,0.1360887097,41,3.2862
+“To Urania” by Joseph Brodsky,Urania.txt,poetry,10,CCS,158,128,0.8101,10,15.8,0.1582278481,0.0253164557,0.08860759494,44,3.2864
+“In the Dordogne” by John Peale Bishop,In_dordogne.txt,poetry,11,CCS,310,168,0.5419,10,31,0.08709677419,0.02580645161,0.1548387097,46,3.2886
+“The Nun’s Priest’s Tale” by Geoffrey Chaucer,Nuns_priest.txt,poetry,12,CCS,5106,1629,0.319,261,19.5632,0.1157461810,0.02820211516,0.09831570701,98,3.2901
+"“Click Clack the Rattlebag,” by Neil Gaiman",Click_clack.txt,prose,9,ALB,1398,455,0.3254,126,11.0952,0.1337625179,0.02789699571,0.09442060086,66,3.3066
+“The Twelve” by Aleksandr Blok,Twelve.txt,poetry,10,CCS,1743,763,0.4377,160,10.8937,0.1583476764,0.01032702238,0.09638554217,129,3.3077
+"“The Cremation of Sam McGee,” Robert W. Service",Cremation_sam.txt,poetry,9,ALB,885,393,0.444,34,26.0294,0.1129943503,0.02711864407,0.08813559322,40,3.3087
+“Home” by Anton Chekhov,Home.txt,prose,10,CCS,3616,1118,0.3091,244,14.8196,0.125,0.02074115044,0.1117256637,76,3.3139
+Open Closed Open: Poems by Yehuda Amichai (selections),Open_closed.txt,poetry,10,CCS,830,374,0.4506,47,17.6595,0.1397590361,0.01445783133,0.1409638554,45,3.3173
+“A Rose for Emily” by William Faulkner,Rose_emily.txt,prose,11,CCS,3710,1111,0.2994,195,19.0256,0.1185983827,0.03153638814,0.1148247978,142,3.3243
+“The Wasteland” by T. S. Eliot,Waste_land.txt,poetry,12,CCS,3005,1270,0.4226,184,16.3315,0.10815307820,0.01830282862,0.10948419301,97,3.3259
+"“Same Love,” by Macklemore and Ryan Lewis",Same_love.txt,poetry,11,ALB,677,296,0.4372,27,25.074,0.11816839,0.03101920236,0.0753323486,71,3.334
+“Micromégas” by Voltaire,Micromegas.txt,prose,12,CCS,7017,1769,0.2521,353,19.8781,0.121561921,0.02964229728,0.1189967222,80,3.3442
+“Chronicle of a Death Foretold” by Gabriel García Márquez,Chronicle_death.txt,prose,10,CCS,5432,1406,0.2588,243,22.3539,0.09628129602,0.03092783505,0.1308910162,68,3.3506
+“The Wife of Bath’s Tale” by Geoffrey Chaucer,Wife_bath.txt,poetry,12,CCS,3569,1141,0.3196,184,19.3967,0.1216026898,0.03138133931,0.08966096946,66,3.3616
+"“Make Good Art,” by Neil Gaiman",Make_art.txt,prose,9,ALB,2916,773,0.2651,164,17.7804,0.1224279835,0.03909465021,0.08641975309,91,3.3641
+“This is my letter to the World” by Emily Dickinson,Letter_world.txt,poetry,11,CCS,41,36,0.878,1,41,0.1219512195,0,0.1707317073,39,3.3818
+“The Head-Gardener’s Story” by Anton Chekhov,Head_gardener.txt,prose,10,CCS,1918,747,0.3894,96,19.9791,0.1136600626,0.02502606882,0.1047966632,57,3.3927
+“The Steppe” by Anton Chekhov,Steppe.txt,prose,10,CCS,11354,2445,0.2153,605,18.7669,0.119429276,0.02536550995,0.1256825788,93,3.3966
+"“I Was a Teenage Space Jockey,” by Stephen Graham Jones",Teenage_space.txt,prose,10,ALB,4575,1224,0.2675,233,19.6351,0.1309289617,0.02513661202,0.1066666667,150,3.4031
+“The Ballad of Reading Gaol” by Oscar Wilde,Ballad_gaol.txt,poetry,12,CCS,4103,1246,0.3036,159,25.805,0.1133317085,0.02680965147,0.1033390202,61,3.4207
+"“Law, Like Love,” by W.H. Auden",Law_love.txt,poetry,11,ALB,325,186,0.5723,11,29.5454,0.1661538462,0.04,0.07076923077,102,3.4236
+“The World is too Much with Us” by William Wordsworth,World_too_much.txt,poetry,12,CCS,118,99,0.8389,4,29.5,0.1271186441,0,0.1101694915,50,3.4258
+“Ward No. 6” by Anton Chekhov,Ward_6.txt,prose,10,CCS,21518,4660,0.2165,1133,19.3551,0.11818013,0.02490938,0.12152616,90,3.4327
+“The Pardoner’s Tale” by Geoffrey Chaucer,Pardoners_tale.txt,poetry,12,CCS,2846,900,0.3162,141,20.1843,0.1349262122,0.04181307098,0.09416725228,60,3.4362
+"“The Times They Are a’Changin’,” by Bob Dylan",Times_changin.txt,poetry,11,ALB,251,136,0.5418,9,27.8888,0.1274900398,0.02788844622,0.08366533865,69,3.4367
+“Homecoming” by Julia Alvarez,Homecoming.txt,poetry,9,CCS,287,191,0.6655,15,19.1333,0.1010452962,0.01742160279,0.118466899,51,3.4464
+"“Wednesday,” by Marvin Bell",Wednesday.txt,poetry,12,ALB,309,193,0.6245,9,34.3333,0.1035598706,0.03236245955,0.1715210356,31,3.4481
+“Richard Cory” by E.A. Robinson,Rich_cory.txt,poetry,11,CCS,124,86,0.6935,5,24.8,0.1209677419,0.0564516129,0.08870967742,31,3.4545
+Sonnet 146 by William Shakespeare,Sonnet_146.txt,poetry,12,CCS,113,87,0.7699,6,18.8333,0.1946902655,0.03539823009,0.09734513274,30,3.4635
+“The Minister’s Black Veil” by Nathaniel Hawthorne,Minister_veil.txt,prose,9,CCS,5128,1557,0.3036,221,23.2036,0.1464508580,0.03451638066,0.1195397816,61,3.4673
+“The Day of Doom” by Michael Wigglesworth,Day_doom.txt,poetry,11,CCS,9991,2457,0.2459,626,15.96,0.1295165649,0.0275247723,0.08797918126,75,3.4734
+“The Second Coming” by William Butler Yeats,Second_coming.txt,poetry,12,CCS,167,121,0.7245,6,27.8333,0.1198,0.0240,0.1198,49,3.4809
+"“Paul’s Case,” by Willa Cather",Pauls_case.txt,prose,12,ALB,8282,2168,0.2617,314,26.3757,0.1271432021,0.02765032601,0.1291958464,71,3.5005
+“Counter-Attack” by Siegfried Sassoon,Counter_attack.txt,poetry,12,CCS,309,215,0.6957,17,18.1764,0.1359223301,0.01618122977,0.1262135922,38,3.507
+"“Adam’s Song,” by Blink 182",Adams_song.txt,poetry,11,ALB,271,114,0.4206,4,67.75,0.1881918819,0.0221402214,0.06273062731,89,3.5159
+“Rappaccini’s Daughter” by Nathaniel Hawthorne,Rappaccini.txt,prose,11,CCS,10713,2459,0.2295,490,21.8632,0.1410435919,0.02762998226,0.130589004,85,3.5252
+“When the leaf sings” by Arnaut Daniel,When_leaf.txt,poetry,12,CCS,227,139,0.6123,7,32.4285,0.1145374449,0.06607929515,0.06607929515,28,3.5339
+Strange Tales from a Chinese Studio by Pu Songling,Stories_studio.txt,prose,10,CCS,11062,2275,0.2056,480,23.0458,0.1193274272,0.02910866028,0.1222202133,69,3.5531
+“The Knight’s Tale” by Geoffrey Chaucer,Knights_tale.txt,poetry,12,CCS,11610,2229,0.1919,581,19.9827,0.1260120586,0.03729543497,0.1097329888,141,3.5587
+“Mother to Son” by Langston Hughes,Mother_son.txt,poetry,11,CCS,94,62,0.6595,6,15.6666,0.09574468085,0.02127659574,0.1063829787,35,3.5612
+"“The Masque of the Red Death,” by Edgar Allan Poe",Masque_red.txt,prose,11,ALB,2462,888,0.3606,106,23.2264,0.1401299756,0.0239642567,0.1348497157,122,3.5731
+“What Stumped the Bluejays” by Mark Twain,Stumped_blue.txt,prose,11,CCS,2087,633,0.3033,98,21.2959,0.1394345951,0.01964542405,0.1011020604,86,3.5733
+“Love Is” by Nikki Giovanni,Love_is.txt,poetry,9,CCS,57,40,0.7017,1,57,0.1754385965,0.08771929825,0.01754385965,32,3.5733
+Flowers of Evil by Charles Baudelaire,Flowers_evil.txt,poetry,12,CCS,7785,2570,0.3301,340,22.8971,0.1315350032,0.02235067437,0.1197174053,86,3.5738
+“Ode on Indolence” by John Keats,Ode_indolence.txt,poetry,12,CCS,473,273,0.5771,26,18.1923,0.1437632135,0.03171247357,0.1014799154,65,3.5948
+“Young Goodman Brown” by Nathaniel Hawthorne,Young_goodman.txt,prose,11,CCS,5247,1554,0.2961,244,21.5041,0.138555365,0.02839717934,0.1229273871,62,3.5961
+"“Young Goodman Brown,” by Nathaniel Hawthorne",Young_goodman.txt,prose,12,ALB,5247,1554,0.2961,244,21.5041,0.138555365,0.02839717934,0.1229273871,62,3.5961
+“Birches” by Robert Frost,Birches.txt,poetry,11,CCS,510,287,0.5627,20,25.5,0.1254901961,0.03137254902,0.1137254902,58,3.5987
+“The Duel” by Anton Chekhov,Duel.txt,prose,10,CCS,11239,2481,0.2207,606,18.5462,0.1202953999,0.02873921167,0.118693834,92,3.6079
+"“Hanging Fire,” by Audre Lorde",Hanging_fire.txt,poetry,9,ALB,162,96,0.5925,3,54,0.0987654321,0.03703703704,0.1049382716,56,3.6089
+“A High-Toned Old Christian Woman” by Wallace Stevens,High_toned.txt,poetry,11,CCS,152,109,0.7171,12,12.6666,0.1184210526,0.02631578947,0.125,68,3.6208
+"“The Writer,” by Richard Wilbur",Writer.txt,poetry,10,ALB,249,163,0.6546,9,27.6666,0.1204819277,0.04016064257,0.1124497992,42,3.6246
+"“In School-days,” by John Greenleaf Whittier",School_days.txt,poetry,12,ALB,258,191,0.7403,12,21.5,0.1395348837,0.03488372093,0.08914728682,59,3.6328
+"“A Wagner Matinee,” by Willa Cather ",Wagner_matinee.txt,prose,10,ALB,3332,1251,0.3754,111,30.01801,0.1182472989,0.02731092437,0.1431572629,74,3.6352
+"“Edge of Revolution,” by Nickleback",Edge_rev.txt,poetry,11,ALB,452,111,0.2455,24,18.8333,0.08407079646,0.01769911504,0.09734513274,79,3.6366
+"“The Price,” by Neil Gaiman",Price.txt,prose,10,ALB,2432,822,0.3379,110,22.109,0.1254111842,0.01768092105,0.1155427632,102,3.6593
+“A & P” by John Updike,AP.txt,prose,11,CCS,2843,934,0.3285,126,22.5634,0.1220541681,0.02321491382,0.1153710869,95,3.6816
+“Four Quartets” by T. S. Eliot,Four_quartets.txt,poetry,12,CCS,6726,2047,0.3043,281,23.9359,0.111210229,0.01903062742,0.1268212905,101,3.6904
+“Dance of Death” by Charles Baudelaire,Dance_dead.txt,poetry,12,CCS,465,316,0.6795,18,25.8333,0.1268817204,0.01935483871,0.1333333333,50,3.6998
+“In Trackless Woods” by Richard Wilbur,Trackless_woods.txt,poetry,9,CCS,108,85,0.787,4,27,0.1388888889,0.03703703704,0.09259259259,40,3.7037
+“Letter to a Young Lady in Paris”by Julio Cortázar,Letter_paris.txt,prose,10,CCS,3668,1123,0.3061,126,29.1111,0.1322246456,0.03217011996,0.1324972737,142,3.7177
+“Rip Van Winkle” by Washington Irving,Rip_van.txt,prose,11,CCS,7291,2060,0.2825,256,28.4804,0.1289260732,0.02180770813,0.1331778905,83,3.7281
+“Because I could not stop for Death” by Emily Dickinson,Stop_death.txt,poetry,11,CCS,127,95,0.748,3,42.3333,0.1102362205,0.02362204724,0.09448818898,91,3.7471
+"“Shake the Dust,” by Anis Mojgani",Shake_dust.txt,poetry,11,ALB,660,308,0.4666,8,82.5,0.07878787879,0.02575757576,0.1409090909,95,3.781
+“The Overcoat” by Nikolai Gogol,Overcoat.txt,prose,9,CCS,11370,2391,0.2102,439,25.8997,0.1267370273,0.03764291996,0.1240105541,296,3.7893
+"“Haunted Houses,” by Henry Wadsworth Longfellow",Haunted_houses.txt,poetry,11,ALB,294,203,0.6904,10,29.4,0.119047619,0.01020408163,0.1496598639,37,3.7914
+"“Take a Minute,” by K’Naan",Take_minute.txt,poetry,11,ALB,597,187,0.3132,8,74.625,0.1038525963,0.01675041876,0.04522613065,97,3.8086
+“Elegy Written in A Country Churchyard” by Thomas Gray,Elegy.txt,poetry,9,CCS,944,581,0.6154,37,25.5135,0.125,0.01483050847,0.1165254237,72,3.8117
+"“In Which I Do Not Fear Harvey Dent,” Brenna Twohy",Harvey_dent.txt,poetry,11,ALB,530,234,0.4415,13,40.7692,0.1132075472,0.05849056604,0.08867924528,77,3.8172
+"“Lose Yourself,” by Eminem",Lose_yourself.txt,poetry,11,ALB,813,334,0.4108,18,45.1666,0.12300123,0.009840098401,0.07134071341,85,3.8451
+"“The Raven,” by Edgar Allen Poe",Raven.txt,poetry,10,ALB,1076,477,0.4433,38,28.3157,0.1459107807,0.02695167286,0.09293680297,63,3.8614
+“The Raven” by Edgar Allan Poe,Raven.txt,poetry,11,CCS,1076,477,0.4433,38,28.3157,0.1459107807,0.02695167286,0.09293680297,63,3.8614
+“The Monk’s Tale” by Geoffrey Chaucer,Monks_tale.txt,poetry,12,CCS,6957,1818,0.2613,272,25.5772,0.1072301279,0.04139715395,0.1083800489,78,3.8626
+The Surprising Adventures of Baron Munchhausen by Rudolf Erich Raspe,Surprising_adventures.txt,prose,12,CCS,11141,2433,0.2183,304,36.648,0.1200969392,0.03249259492,0.1365227538,131,3.8959
+“On a Gate-tower at Yuzhou” by Chen Zi’ang,On_gate.txt,poetry,10,CCS,37,30,0.8108,2,18.5,0.05405405405,0.05405405405,0.1621621622,23,3.9
+“To Daffodils” by Robert Herrick,Daffodils.txt,poetry,12,CCS,93,69,0.7419,4,23.25,0.1505376344,0.03225806452,0.09677419355,34,3.9136
+Sonnet 128 by William Shakespeare,Sonnet_128.txt,poetry,12,CCS,107,83,0.7757,3,35.6666,0.1214953271,0.06542056075,0.07476635514,38,3.9142
+“Can We Autocorrect Humanity?” by Prince Ea,Autocorrect.txt,poetry,9,ALB,461,279,0.6052,13,35.4615,0.125813449,0.01952277657,0.09761388286,135,3.9184
+"“Troll,” by Shane Koyczan",Troll.txt,poetry,10,ALB,679,353,0.5198,8,84.875,0.07511045655,0.0441826215,0.1266568483,172,3.9492
+“A Lemon” by Pablo Neruda,Lemon.txt,poetry,9,CCS,164,106,0.6463,5,32.8,0.1341463415,0.006097560976,0.1341463415,58,3.9561
+“To His Coy Mistress” by Andrew Marvell,Coy_mistress.txt,poetry,12,CCS,303,210,0.6931,11,27.5454,0.102310231,0.0198019802,0.1056105611,44,3.9627
+“Yet Do I Marvel” by Countee Cullen,Yet_marvel.txt,poetry,11,CCS,102,91,0.8921,3,34,0.1960784314,0.02941176471,0.06862745098,73,3.9689
+“The Legend of Sleepy Hollow” by Washington Irving,Legend_sleepy.txt,prose,11,CCS,11217,3101,0.2764,320,35.0531,0.1343496479,0.02077204244,0.1489703129,114,3.9721
+"“I see scarlet, green, blue, white, yellow” by Arnaut Daniel",I_see_scarlet.txt,poetry,12,CCS,371,211,0.5687,9,41.2222,0.1374663073,0.06199460916,0.08086253369,66,3.9752
+“The Ruin” in The Exeter Book,Ruin.txt,poetry,12,CCS,348,229,0.658,13,26.7692,0.1551724138,0.04022988506,0.09482758621,66,3.9854
+“A Song of Ch’ang-kan” by Li Po,Chang_kan.txt,poetry,10,CCS,270,181,0.6703,13,20.7692,0.1185185185,0.03703703704,0.1259259259,43,4.0056
+“The Wanderer” in The Exeter Book ,Wanderer.txt,poetry,12,CCS,964,527,0.5466,47,20.5106,0.1690871369,0.03630705394,0.09024896266,82,4.0136
+“The Nightingale of Wittenberg” by Hans Sachs,Nightingale.txt,poetry,12,CCS,313,198,0.6325,11,28.4545,0.1501597444,0.01916932907,0.09265175719,79,4.0243
+"“I Wandered Lonely as a Cloud,” by William Wordsworth",Wandered_cloud.txt,poetry,9,ALB,154,111,0.7207,4,38.5,0.1103896104,0.01948051948,0.1623376623,50,4.0246
+“I wandered lonely as a cloud” by William Wordsworth,Wandered_cloud.txt,poetry,9,CCS,154,111,0.7207,4,38.5,0.1103896104,0.01948051948,0.1623376623,50,4.0246
+“Holy Sonnet 10” by John Donne,Holy_10.txt,poetry,12,CCS,117,88,0.7521,4,29.25,0.188034188,0.01709401709,0.07692307692,43,4.0306
+“The Fall of the House of Usher” by Edgar Allan Poe,Fall_usher.txt,prose,11,CCS,7177,2092,0.2914,244,29.4139,0.1573080674,0.03023547443,0.1428173331,175,4.0553
+In Memorium A. H. H by Alfred Lord Tennyson,In_memorium.txt,poetry,12,CCS,3769,1313,0.3483,123,30.6422,0.1236402229,0.02440965773,0.1087821703,140,4.0924
+“The Reader” by Richard Wilbur,Reader.txt,poetry,9,CCS,224,155,0.6919,6,37.3333,0.1696428571,0.03125,0.1294642857,77,4.1103
+"“Song: Goe, and catche a falling starre” by John Donne",Goe_catch.txt,poetry,12,CCS,146,116,0.7945,3,48.6666,0.1095890411,0.06849315068,0.04109589041,50,4.1213
+"“At the Gym,” by Mark Dotty",At_the_gym.txt,poetry,10,ALB,139,100,0.7194,4,34.75,0.09352517986,0.03597122302,0.1223021583,54,4.1237
+“The Road Not Taken” by Robert Frost,Road_less.txt,poetry,11,CCS,144,98,0.6805,4,36,0.1527777778,0.04861111111,0.1041666667,99,4.1491
+“The Road Not Taken” by Robert Frost,Road_less.txt,poetry,12,ALB,144,98,0.6805,4,36,0.1527777778,0.04861111111,0.1041666667,99,4.1491
+“The Old Huntsman” by Siegfried Sassoon,Old_huntsman.txt,poetry,12,CCS,1664,742,0.4459,71,23.4366,0.1165865385,0.02824519231,0.1045673077,88,4.1729
+“The bitter air” by Arnaut Daniel,Bitter_air.txt,poetry,12,CCS,422,237,0.5616,10,42.2,0.1587677725,0.04028436019,0.09478672986,79,4.2244
+"“The Day the Saucers Came,” by Neil Gaiman",Day_saucers.txt,poetry,10,ALB,343,195,0.5685,5,68.6,0.08163265306,0.03206997085,0.09329446064,97,4.2252
+“The Deserted Village” by Oliver Goldsmith,Deserted_village.txt,poetry,12,CCS,3319,1417,0.4269,95,34.9368,0.1446218741,0.02982826152,0.08436275987,152,4.2287
+"“Love is Not All,” by Edna St. Vincent Millay",Love_notall.txt,poetry,9,ALB,125,84,0.672,4,31.25,0.08,0.016,0.112,49,4.2402
+Childe Harold’s Pilgrimage by George Gordon,Childe_pilgr.txt,poetry,12,CCS,218,148,0.6788,4,54.5,0.09174311927,0.01834862385,0.1330275229,56,4.2456
+“The Celebrated Jumping Frog of Calaveras County” by Mark Twain,Celebrated_frog.txt,prose,11,CCS,2600,722,0.2776,79,32.9113,0.1134615385,0.03730769231,0.09807692308,87,4.2537
+“Poetry” by Marianne Moore,Poetry.txt,poetry,9,CCS,261,156,0.5977,6,43.5,0.1149,0.0460,0.1073,68,4.2559
+"“Ulysses,” by Alfred Lord Tennyson",Ulysses.txt,poetry,12,ALB,561,340,0.6061,16,35.0625,0.137254902,0.01782531194,0.09090909091,63,4.2757
+"“Sonnet 18,” by William Shakespeare",Sonnet_18.txt,poetry,9,ALB,109,81,0.7431,4,27.25,0.2018348624,0.01834862385,0.09174311927,37,4.2965
+“Love Among the Ruins” by Robert Browning,Love_among.txt,poetry,12,CCS,464,305,0.6573,18,25.7777,0.1120689655,0.03448275862,0.09913793103,72,4.3082
+“The Underground” by Seamus Heaney,Underground.txt,poetry,9,CCS,129,99,0.7674,2,64.5,0.1162790698,0.04651162791,0.1240310078,57,4.3225
+“The Love Song of J. Alfred Prufrock” by T.S. Eliot,Love_prufrock.txt,poetry,11,CCS,1096,480,0.4379,46,23.826,0.09580291971,0.02645985401,0.09580291971,95,4.3317
+"“The Love Song of J. Alfred Prufrock,” by T.S. Eliot",Love_prufrock.txt,poetry,12,ALB,1096,480,0.4379,46,23.826,0.09580291971,0.02645985401,0.09580291971,95,4.3317
+“The Sot-Weed Factor” by Ebenezer Cooke,Sot_weed.txt,poetry,11,CCS,4398,1744,0.3965,99,44.4242,0.1180081855,0.02205547976,0.1148249204,147,4.3381
+“The Silent Slain” by Archibald MacLeish,Silent_slain.txt,poetry,11,CCS,97,68,0.701,2,48.5,0.206185567,0.01030927835,0.1237113402,30,4.3414
+Sonnet 30 by William Shakespeare,Sonnet_30.txt,poetry,12,CCS,116,89,0.7672,3,38.6666,0.1551724138,0.05172413793,0.1120689655,41,4.3691
+“Dover Beach” by Matthew Arnold,Dover_beach.txt,poetry,12,CCS,261,176,0.6743,10,26.1,0.1724137931,0.01149425287,0.1417624521,54,4.4176
+“The Sound of the Sea” by Henry Wadsworth Longfellow,Sound_sea.txt,poetry,9,CCS,102,76,0.7451,2,51,0.137254902,0.01960784314,0.1862745098,69,4.4687
+"“A Modest Proposal,” by Jonathan Swift",Modest_proposal.txt,prose,11,ALB,3392,1102,0.3248,67,50.6268,0.1450471698,0.03154481132,0.1341391509,133,4.4716
+"“The Lime-tree Bower my Prison,” by Samuel Taylor Coleridge",Lime_tree.txt,poetry,12,ALB,595,374,0.6285,21,28.3333,0.2084033613,0.02857142857,0.1411764706,110,4.4772
+“Ode on a Grecian Urn” by John Keats,Ode_urn.txt,poetry,12,CCS,369,242,0.6558,18,20.5,0.1869918699,0.0108401084,0.1056910569,110,4.5183
+“Song of Myself” by Walt Whitman,Song_myself.txt,poetry,11,CCS,15831,5136,0.3244,525,30.191945,0.1162,0.0151,0.1198,482,4.5473
+“Annabel Lee” by Edgar Allan Poe,Annabel_lee.txt,poetry,11,CCS,300,129,0.43,7,42.8571,0.1033333333,0.02,0.1533333333,62,4.5473
+“Goblin Market” by Christina Rossetti,Goblin_market.txt,poetry,12,CCS,2958,1158,0.3914,93,31.8064,0.1108857336,0.01690331305,0.1169709263,200,4.5637
+"“Please Don’t Take My Air Jordans,” by Reg E. Gaines",Please_dont_take.txt,poetry,10,ALB,480,267,0.5562,18,26.6666,0.1354166667,0.02291666667,0.0625,129,4.5709
+“The Piazza” by Herman Melville,Piazza.txt,prose,11,CCS,5303,1689,0.3184,222,23.8873,0.1599094852,0.03186875354,0.1204978314,232,4.5865
+"“Wings,” by Macklemore and Ryan Lewis",Wings.txt,poetry,10,ALB,591,252,0.4263,7,84.4285,0.09137055838,0.01353637902,0.06937394247,160,4.6104
+“The Old Oaken Bucket” by Samuel Woodworth,Oaken_bucket.txt,poetry,11,CCS,266,143,0.5375,8,33.25,0.1052631579,0.03383458647,0.1165413534,78,4.6169
+"“To This Day,” by Shane Koyczan",To_this_day.txt,poetry,9,ALB,1202,539,0.4484,24,50.0833,0.09900166389,0.04742096506,0.09484193012,321,4.7535
+"“To the Censorious Ones,” by Anne Waldman",Censorious.txt,poetry,11,ALB,180,105,0.5833,2,90,0.1277777778,0.005555555556,0.1611111111,100,4.7966
+“Tintern Abbey” by William Wordsworth,Tintern_abbey.txt,poetry,12,CCS,1222,555,0.4541,30,40.7333,0.1505728314,0.03027823241,0.1350245499,123,4.8043
+Sonnet 143 by William Shakespeare,Sonnet_143.txt,poetry,12,CCS,117,85,0.7264,1,117,0.1196581197,0.05128205128,0.07692307692,125,4.8092
+“A Bird came down the Walk” by Emily Dickinson,Bird_walk.txt,poetry,11,CCS,108,87,0.8055,2,54,0.09259259259,0.01851851852,0.1018518519,99,4.8881
+“When Lilacs Last in the Dooryard Bloom’d” by Walt Whitman,Lilacs_bloomd.txt,poetry,11,CCS,2157,728,0.3375,69,31.2608,0.1154381085,0.01854427446,0.1423273064,158,4.889
+“Ode to Intimations to Immortality” by William Wordsworth,Ode_intimations.txt,poetry,12,CCS,1389,650,0.4679,31,44.8064,0.1231101512,0.02231821454,0.117350612,138,4.9978
+Sonnet 29  by William Shakespeare,Sonnet_29.txt,poetry,12,CCS,114,86,0.7543,2,57,0.1140350877,0.02631578947,0.1666666667,75,5.2328
+“Dreamers” by Siegfried Sassoon,Dreamers.txt,poetry,12,CCS,110,81,0.7363,5,22,0.06363636364,0.009090909091,0.1545454545,63,5.3624
+"“The World Below the Brine,” by Walt Whitman",World_brine.txt,poetry,11,ALB,160,108,0.675,1,160,0.15625,0.0125,0.1125,139,6.7051
+“I Hear America Singing” by Walt Whitman,Hear_america.txt,poetry,11,CCS,155,84,0.5419,1,155,0.07741935484,0.03225806452,0.135483871,189,7.2146
+"“The Sound of Silence,” by Simon and Garfunkel",Sound_silence.txt,poetry,10,ALB,216,132,0.6111,1,216,0.06481481481,0.01388888889,0.1203703704,208,7.2213
+"“If,” by Rudyard Kipling",If.txt,poetry,11,ALB,289,160,0.5536,2,144.5,0.06574394464,0.06228373702,0.1003460208,194,8.8027
